@@ -174,7 +174,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-
+<!--
 ## Have Knowledge About
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -188,7 +188,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
+-->
 <p align="center">
   <a href="https://github.com/rhythm-ranjan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythm-ranjan&theme=radical&border=7F3FBF&background=0D1117" alt="Rhythm's GitHub streak"/>
