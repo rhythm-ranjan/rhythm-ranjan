@@ -191,13 +191,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/rhythm-ranjan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashRanjan001&theme=radical&border=7F3FBF&background=0D1117" alt="Rhythm's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhythm-ranjan&theme=radical&border=7F3FBF&background=0D1117" alt="Rhythm's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/rhythm-ranjan">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AakashRanjan001&theme=radical" alt="Rhythm's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhythm-ranjan&theme=radical" alt="Rhythm's GitHub Contribution"/>
   </a>
 </p>
 
@@ -211,10 +211,12 @@ Here are some ideas to get you started:
   <br/>
 </a>
 
-
+<!--
 
 ![Rhythm's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm-ranjan&custom_title=Aakash%20Ranjan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
 )
+-->
+[Rhythm's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm-ranjan&custom_title=Rhythm%20Ranjan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
 <h2 align="center">⚡ Stats ⚡</h2>
