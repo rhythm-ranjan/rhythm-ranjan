@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There 👋, I am
-                <b><a target="_blank" href="#">Rhythm Ranjan</a></b>
+                <b><a target="_blank" href="#">Rhythm Ranjan From IIIT Hyderabad, ECE'29</a></b>
         </samp>
 </h3>
 
@@ -137,12 +137,12 @@ Here are some ideas to get you started:
  <!-- <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="aayush2761" />
  </a> -->
- <a href="https://www.linkedin.com/in/aakash-ranjan-03072b231/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aakash001"/>
+ <a href="https://www.linkedin.com/in/rhythm-ranjan-2108733a1/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rhythm07"/>
  </a>
   
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ranjanaakash001@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Aakash001"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rhythmmrr77@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Rhythm07"/>
 </a>
 
 
@@ -159,13 +159,13 @@ Here are some ideas to get you started:
 <p>
  <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aayush's Contribution Calander" />
 
-  - 🔭 &emsp; Currently pursuing B.Tech in Information Technology(2022-2026) from National Institute of Technology Raipur
+  - 🔭 &emsp; Currently pursuing B.Tech in Electronics And Communication(2025-2029) from International Institute Of Information Technology, Hyderabad.
 
-  - 🌱 &emsp; I’m currently exploring **SYSTEM DESIGN **
+  - 🌱 &emsp; I’m currently exploring **C/C++/DSA**
 
-  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/JS/NODE.JS**
+  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/JS**
 
-  - 📫 &emsp; How to reach me **ranjanaakash001@gmail.com and aranjan001.btech2022@it.nitrr.ac.in**
+  - 📫 &emsp; How to reach me **rhythmmrr77@gmail.com**
     
 
 </p>
@@ -190,30 +190,30 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <a href="https://github.com/AakashRanjan001">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashRanjan001&theme=radical&border=7F3FBF&background=0D1117" alt="Aakash's GitHub streak"/>
+  <a href="https://github.com/rhythm-ranjan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AakashRanjan001&theme=radical&border=7F3FBF&background=0D1117" alt="Rhythm's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AakashRanjan001">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AakashRanjan001&theme=radical" alt="Aakash's GitHub Contribution"/>
+  <a href="https://github.com/rhythm-ranjan">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AakashRanjan001&theme=radical" alt="Rhythm's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-  <a href="https://github.com/AakashRanjan001">
-    <img alt="Aakash's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AakashRanjan001&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/rhythm-ranjan">
+    <img alt="Rhythm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rhythm-ranjan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/AakashRanjan001">
-    <img alt="Aakash's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AakashRanjan001&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/rhythm-ranjan">
+    <img alt="Rhythm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rhythm-ranjan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
   <br/>
 </a>
 
 
 
-![Aakash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AakashRanjan001&custom_title=Aakash%20Ranjan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
+![Rhythm's Graph](https://github-readme-activity-graph.vercel.app/graph?username=rhythm-ranjan&custom_title=Aakash%20Ranjan%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
 )
 
 <!--
